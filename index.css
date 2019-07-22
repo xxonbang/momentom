@@ -1,0 +1,16 @@
+body {
+    background-color: #778beb;
+}
+
+body {
+    color: white;
+}
+
+.form,
+.greeting {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
